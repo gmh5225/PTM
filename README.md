@@ -1,12 +1,6 @@
-<div align="center">
-    <div>
-        <img style="width: 10%;" src="https://githacks.org/_xeroxz/PTM/-/raw/ae420f13bf79069246ea2076d0926692aeb21562/img/PTM-icon.png"/>
-    </div>
-    <img src="https://githacks.org/xerox/ptm/-/raw/d9e67ce6baae8a455b2f9218fed8f1d8fca04a16/img/Windows%2010-supported-green.svg"/>
-    <img src="https://githacks.org/xerox/ptm/-/raw/d9e67ce6baae8a455b2f9218fed8f1d8fca04a16/img/VDM-Inherited-green.svg"/>
-</div>
 
-# PTM - Paging Table Manipulation From Usermode
+
+# _xeroxz's PTM - Paging Table Manipulation From Usermode
 
 paging table manipulation from user-mode. operations such as getting and setting all paging table entries and values are offered. the code is aware of large pages. Link to write up can be found [here](https://back.engineering/01/12/2020/).
 
